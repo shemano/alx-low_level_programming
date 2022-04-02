@@ -42,4 +42,3 @@ int is_prime_number(int n)
 		return (divisors(3, n));
 	}
 }
-© 2022 GitHub, Inc.
